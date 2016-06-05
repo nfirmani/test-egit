@@ -32,7 +32,7 @@ import javax.servlet.http.HttpServletResponse;
  * A simple secured Servlet. Upon successful authentication and authorization the Servlet will print details of the user and
  * authentication. Servlet security is implemented using annotations.
  *
- * @author Sherif Makary
+ * @author Sherif Makary modificato
  *
  */
 @SuppressWarnings("serial")
